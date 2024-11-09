@@ -6,6 +6,7 @@
 </div>
 
 ### Front-End
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -21,6 +22,7 @@
 </div>
 
 ### Back-end
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -40,6 +42,7 @@
 </div>
 
 ### Ferramentas úteis
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -57,12 +60,7 @@
 </div>
 
 ###
-<div align="left">
-</div>
-###
+
 <img src="https://raw.githubusercontent.com/agleicesousa/agleicesousa/output/snake.svg" alt="Snake animation" />
-###
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
 ###
