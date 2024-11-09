@@ -58,11 +58,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/agleicesousa/agleicesousa/output/snake.svg" alt="Snake animation" />
-
-###
